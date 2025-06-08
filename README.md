@@ -17,6 +17,12 @@ This project is inspired by the [YouTube tutorial](https://www.youtube.com/watch
 
 ---
 
+## 📊 Report
+For full detailed report, visit:  
+[YouTube Data Engineering & Analytics Project Report (Notion)](https://www.notion.so/Report-YouTube-Data-Engineering-Analytics-Project-20c1a18bc9a3803ab828fd81fbc5f5dd?source=copy_link)
+
+---
+
 ## 🧰 Tools & Technologies
 
 | Tool / Service          | Purpose                            |
